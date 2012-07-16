@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.junichi11.netbeans.smartsprites
+OpenIDE-Module-Layer: com/junichi11/netbeans/smartsprites/resources/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/junichi11/netbeans/smartsprites/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1
+

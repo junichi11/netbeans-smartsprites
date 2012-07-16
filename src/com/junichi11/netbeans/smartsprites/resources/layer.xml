@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+	<folder name="Projects">
+		<folder name="Actions">
+			<file name="com.junichi11.netbeans.smartsprites.SmartSpritesAction.instance"/>
+		</folder>
+	</folder>
+	<folder name="Loaders">
+		<folder name="folder">
+			<folder name="any">
+				<folder name="Actions">
+					<file name="com.junichi11.netbeans.smartsprites.SmartSpritesAction.instance"/>
+				</folder>
+			</folder>
+		</folder>    
+	</folder>
+</filesystem>

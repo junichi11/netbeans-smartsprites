@@ -12,6 +12,8 @@ Generate css sprite files(css and image) from css files and some images.
  
 ## Usage
 
+### SmartSprites
+
 - Annotate your CSS with SmartSprites directives.(For more information, please see [smartsprites](http://csssprites.org/))
 - Right-click on the folder(node) that has the CSS. 
 - click SmartSprites.
@@ -28,7 +30,15 @@ Generate css sprite files(css and image) from css files and some images.
          ├─apple.gif
          ├─orange.gif
          └─strawberry.gif
-    
+
+### Generate CSS Sprite
+
+Generate css sprite files from images.
+
+- Right-click on the folder(node) that has some images. 
+- click Generate CSS Sprite.
+- Generate files in "csssprite" folder.
+
 ## License
 
 The MIT License

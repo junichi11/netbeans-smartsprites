@@ -11,6 +11,7 @@
 			<folder name="any">
 				<folder name="Actions">
 					<file name="com.junichi11.netbeans.smartsprites.SmartSpritesAction.instance"/>
+					<file name="com.junichi11.netbeans.smartsprites.CreateCssSpriteAction.instance"/>
 				</folder>
 			</folder>
 		</folder>    
